@@ -1,0 +1,2 @@
+*favs
+*favorite customers
